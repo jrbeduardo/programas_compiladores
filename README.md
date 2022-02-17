@@ -1,6 +1,6 @@
 # Compiladores 2022-2
 
-<div> <img style="display: block; max-width: 100%; margin-left: auto margin-right: auto; padding: 1rem;" src="https://miro.medium.com/max/810/1*7wcPoKrXNYBZYTvDcHxhhA.png" alt="compiler joke"></div>
+<img style="display: block; max-width: 100%; margin-left: auto margin-right: auto; padding: 1rem;" src="https://miro.medium.com/max/810/1*7wcPoKrXNYBZYTvDcHxhhA.png" alt="compiler joke"/>
 
 **Objetivo(s) del curso:** El alumno aplicará técnicas y herramientas de desarrollo de compiladores para elaborar software de base (intérpretes, compiladores y otros traductores) obteniendo un software que optimice tanto memoria como desempeño. Además el alumno podrá discernir entre los diferentes traductores existentes para elaborar software eficiente y adecuado al tipo de problema a resolver. 
 
